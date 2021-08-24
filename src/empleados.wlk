@@ -1,6 +1,8 @@
 object galvan {
 	var sueldo = 15000
-	method sueldo() { return sueldo	}
+	method sueldo() { 
+		return sueldo
+	}
 	method sueldo(nuevoValor) {	sueldo = nuevoValor	}
 }
 
