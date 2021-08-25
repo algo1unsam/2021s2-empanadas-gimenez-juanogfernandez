@@ -68,3 +68,5 @@ Tener en cuenta este escenario
 * Modelar objetos
 * Polimorfismo entre Baigorria y Galván.
  * Para pensar: ¿qué mensajes entiende cada uno? ¿qué efecto produce al utilizar ambos objetos en el REPL?
+
+todo bien
